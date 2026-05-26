@@ -34,12 +34,22 @@
 <h1></h1>
 <h3>Showcase</h3>
 <a href="https://septem-sensu.de">septem-sensu.de - Weil Fotografieren Spaß macht</a>
-<p><br />Eine Plattform und ein kreativer Raum rund um die Faszination der Porträt- und Studiofotografie. Neben technischen Aspekten wie Lichtgestaltung und Location-Auswahl liegt der Fokus hier auf dem Gespür für gelungene Bildkompositionen und dem Ausdruck von Emotionen durch die Linse. Ein echtes Herzensprojekt.</p>
+<p></p>
+<p>
+  <img src="assets/img/septemsensu.png" align="left" alt="Projekt: septem sensu - Weil Fotografieren Spaß macht" title="Projekt: septem sensu - Weil Fotografieren Spaß macht" height="100" />
+  Eine Plattform und ein kreativer Raum rund um die Faszination der Porträt- und Studiofotografie. Neben technischen Aspekten wie Lichtgestaltung und Location-Auswahl liegt der Fokus hier auf dem Gespür für gelungene Bildkompositionen und dem Ausdruck von Emotionen durch die Linse. Ein echtes Herzensprojekt.
+  <br clear="left" />
+</p>
 <p><i><small>Kreativ, leidenschaftlich, Fokus auf Licht & Komposition</small></i></p>
 <p><small>● PHP ● JavaScript ● HTML ● CSS</small></p>
 <br />
 <a href="https://bloompro.de">bloompro.de - Dein digitales Grow-Journal</a>
-<p><br />Ein durchdachtes und effizientes Journal-Tool zur Verwaltung und Protokollierung des eigenen Anbaus. Hilft Nutzern, jeden einzelnen Schritt der Pflanzenentwicklung lückenlos zu dokumentieren, um optimale Ergebnisse bei der Ernte zu erzielen. Smarte Datenstrukturierung trifft auf benutzerfreundliche Workflows.</p>
+<p></p>
+<p>
+  <img src="assets/img/pflanze.png" align="left" alt="Projekt: Bloom Pro - Dein digitales Grow-Journal" title="Projekt: Bloom Pro - Dein digitales Grow-Journal" height="100" />
+  Ein durchdachtes und effizientes Journal-Tool zur Verwaltung und Protokollierung des eigenen Anbaus. Hilft Nutzern, jeden einzelnen Schritt der Pflanzenentwicklung lückenlos zu dokumentieren, um optimale Ergebnisse bei der Ernte zu erzielen. Smarte Datenstrukturierung trifft auf benutzerfreundliche Workflows.
+  <br clear="left" />
+</p>
 <p><i><small>Strukturierendes Tool, lösungsorientiert, exakt dokumentiert</small></i></p>
 <p><small>● PHP ● JavaScript ● HTML ● CSS</small></p>
 <h1></h1>
