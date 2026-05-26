@@ -45,10 +45,10 @@
 <h1></h1>
 <h3>Kontakt und Social Media</h3>
 <p float="left">
-  <a href="mailto:septem.sensu@gmail.com"><img src="assets/img/gmail.png" alt="Mail: septem.sensu@gmail.com" title="Mail: septem.sensu@gmail.com" height="40" /></a>
-  <a href="https://discord.com/users/septem_sensu"><img src="assets/img/discord.png" alt="Discord: https://discord.com/users/septem_sensu" title="Discord: https://discord.com/users/septem_sensu" height="40" /></a>
-  <a href="https://www.youtube.com/@RoadtripSiblings"><img src="assets/img/youtube.png" alt="YouTube: https://www.youtube.com/@RoadtripSiblings" title="YouTube: https://www.youtube.com/@RoadtripSiblings" height="40" /></a>
-  <a href="https://www.twitch.tv/zockability"><img src="assets/img/twitch.png" alt="Twitch: https://www.twitch.tv/zockability" title="Twitch: https://www.twitch.tv/zockability" height="40" /></a>
-  <a href="https://www.instagram.com/zockability/"><img src="assets/img/instagram.png" alt="Instagram: https://www.instagram.com/zockability/" title="Instagram: https://www.instagram.com/zockability/" height="40" /></a>
+  <a href="mailto:septem.sensu@gmail.com"><img src="assets/img/gmail.png" alt="Mail: septem.sensu@gmail.com" title="Mail: septem.sensu@gmail.com" height="30" /></a>
+  <a href="https://discord.com/users/septem_sensu"><img src="assets/img/discord.png" alt="Discord: https://discord.com/users/septem_sensu" title="Discord: https://discord.com/users/septem_sensu" height="30" /></a>
+  <a href="https://www.youtube.com/@RoadtripSiblings"><img src="assets/img/youtube.png" alt="YouTube: https://www.youtube.com/@RoadtripSiblings" title="YouTube: https://www.youtube.com/@RoadtripSiblings" height="30" /></a>
+  <a href="https://www.twitch.tv/zockability"><img src="assets/img/twitch.png" alt="Twitch: https://www.twitch.tv/zockability" title="Twitch: https://www.twitch.tv/zockability" height="30" /></a>
+  <a href="https://www.instagram.com/zockability/"><img src="assets/img/instagram.png" alt="Instagram: https://www.instagram.com/zockability/" title="Instagram: https://www.instagram.com/zockability/" height="30" /></a>
 </p>
 
