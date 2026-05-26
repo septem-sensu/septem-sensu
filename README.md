@@ -5,6 +5,15 @@
 <h3>Tech-Stack</h3>
 <h4>SPRACHEN & FORMATE</h4>
 ● C++ ● C# ● PHP ● Perl ● JavaScript ● SQL ● HTML5 ● CSS3 ● Markdown ● YAML
+<img src="assets/img/cplusplus.svg" />
+<img src="assets/img/csharp.svg" />
+
+
+
+
+
+
+
 <h4>WERKZEUGE & KI</h4>
 ● Git ● Docker ● n8n ● VS Code ● Claude Code ● Obsidian ● ComfyUI ● Ollama
 <h4>KREATIVES & MEDIEN</h4>
