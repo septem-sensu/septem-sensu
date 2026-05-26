@@ -4,20 +4,33 @@
 <h1></h1>
 <h3>Tech-Stack</h3>
 <h4>SPRACHEN & FORMATE</h4>
-● C++ ● C# ● PHP ● Perl ● JavaScript ● SQL ● HTML5 ● CSS3 ● Markdown ● YAML
-<img src="assets/img/cplusplus.svg" />
-<img src="assets/img/csharp.svg" />
-
-
-
-
-
-
-
+<p float="left"> 
+  <img src="assets/img/cplusplus.svg" alt="C++" title="C++" />
+  <img src="assets/img/csharp.png" alt="C#" title="C#" height="46" />
+  <img src="assets/img/php.png" alt="PHP" title="PHP" height="46" />
+  <img src="assets/img/perl.png" alt="Perl" title="Perl" height="46" />
+  <img src="assets/img/javascript.png" alt="JavaScript" title="JavaScript" height="46" />
+  <img src="assets/img/css.png" alt="CSS3" title="CSS3" height="46" />
+  <img src="assets/img/html.png" alt="HTML" title="HTML" height="46" />
+  <img src="assets/img/markdown.png" alt="Markdown" title="Markdown" height="46" />
+  <img src="assets/img/yaml.png" alt="YAML" title="YAML" height="46" />
+</p>
 <h4>WERKZEUGE & KI</h4>
-● Git ● Docker ● n8n ● VS Code ● Claude Code ● Obsidian ● ComfyUI ● Ollama
+<p float="left"> 
+  <img src="assets/img/git.png" alt="Git" title="Git" height="46" />
+  <img src="assets/img/docker.png" alt="Docker" title="Docker" height="46" />
+  <img src="assets/img/n8n.png" alt="n8n" title="n8n" height="46" />
+  <img src="assets/img/vscode.png" alt="VS Code" title="VS Code" height="46" />
+  <img src="assets/img/claude.png" alt="Claude Code" title="Claude Code" height="46" />
+  <img src="assets/img/obsidian.png" alt="Obdisian" title="Obdisian" height="46" />
+  <img src="assets/img/comfyui.png" alt="ComfyUI" title="ComfyUI" height="46" />
+</p>
 <h4>KREATIVES & MEDIEN</h4>
-● Photoshop ● DaVinci Resolve ● OBS Studio
+<p float="left"> 
+  <img src="assets/img/photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" height="46" />
+  <img src="assets/img/davinci.png" alt="DaVinci Resolve" title="DaVinci Resolve" height="46" />
+  <img src="assets/img/obs.png" alt="OBS Studio" title="OBS Studio" height="46" />
+</p>
 <h1></h1>
 <h3>Showcase</h3>
 <a href="https://septem-sensu.de">septem-sensu.de - Weil Fotografieren Spaß macht</a>
