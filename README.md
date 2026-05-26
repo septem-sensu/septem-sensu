@@ -1,6 +1,6 @@
 <h1 align="center">Markus Götz</h1>
 <h3 align="center">Software Developer & Problemlöser</h3>
-<p align="center">Hi, ich bin Markus – leidenschaftlicher Softwareentwickler mit Herz für strukturierten Code und smarte Prozesse. Ich baue stabile Brücken zwischen komplexer Logik und starker Performance.</p>
+<p align="center">Hi, ich bin Markus – leidenschaftlicher Softwareentwickler mit Herz für strukturierten Code und smarte Prozesse.</p>
 <h1></h1>
 <h3>Tech-Stack</h3>
 <h4>SPRACHEN & FORMATE</h4>
