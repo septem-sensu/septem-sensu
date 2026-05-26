@@ -1,11 +1,11 @@
 <h1 align="center">Markus Götz</h1>
-<h3 align="center">Software Development & Problemlöser</h3>
+<h3 align="center">Software Developer & Problemlöser</h3>
 <p align="center">Hi, ich bin Markus – leidenschaftlicher Softwareentwickler mit Herz für strukturierten Code und smarte Prozesse. Ich baue stabile Brücken zwischen komplexer Logik und starker Performance.</p>
 <h1></h1>
 <h3>Tech-Stack</h3>
 <h4>SPRACHEN & FORMATE</h4>
 <p float="left"> 
-  <img src="assets/img/cplusplus.svg" alt="C++" title="C++" />
+  <img src="assets/img/cplusplus.png" alt="C++" title="C++" height="46" />
   <img src="assets/img/csharp.png" alt="C#" title="C#" height="46" />
   <img src="assets/img/php.png" alt="PHP" title="PHP" height="46" />
   <img src="assets/img/perl.png" alt="Perl" title="Perl" height="46" />
