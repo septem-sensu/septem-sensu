@@ -4,7 +4,7 @@
 <h1></h1>
 <h3>Tech-Stack</h3>
 <h4>SPRACHEN & FORMATE</h4>
-<p float="left"> 
+<p float="left">
   <img src="assets/img/cplusplus.png" alt="C++" title="C++" height="46" />
   <img src="assets/img/csharp.png" alt="C#" title="C#" height="46" />
   <img src="assets/img/php.png" alt="PHP" title="PHP" height="46" />
@@ -16,7 +16,7 @@
   <img src="assets/img/yaml.png" alt="YAML" title="YAML" height="46" />
 </p>
 <h4>WERKZEUGE & KI</h4>
-<p float="left"> 
+<p float="left">
   <img src="assets/img/git.png" alt="Git" title="Git" height="46" />
   <img src="assets/img/docker.png" alt="Docker" title="Docker" height="46" />
   <img src="assets/img/n8n.png" alt="n8n" title="n8n" height="46" />
@@ -26,13 +26,23 @@
   <img src="assets/img/comfyui.png" alt="ComfyUI" title="ComfyUI" height="46" />
 </p>
 <h4>KREATIVES & MEDIEN</h4>
-<p float="left"> 
+<p float="left">
   <img src="assets/img/photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" height="46" />
   <img src="assets/img/davinci.png" alt="DaVinci Resolve" title="DaVinci Resolve" height="46" />
   <img src="assets/img/obs.png" alt="OBS Studio" title="OBS Studio" height="46" />
 </p>
 <h1></h1>
 <h3>Showcase</h3>
+<a href="https://github.com/septem-sensu/friendshunt/">Friends Hunt - Die Jagd beginnt...</a>
+<p></p>
+<p>
+  <img src="assets/img/friendshunt-app-icon-192x192.png" align="left" alt="Projekt: Friends Hunt - Die Jagd beginnt..." title="Projekt: Friends Hunt - Die Jagd beginnt..." height="100" width="100" />
+  Friends-Hunt ist eine selbst-hostbare Progressive Web App (PWA) für Reallife-Geo-Games im Stil bekannter YouTube-Formate. Eine präzise GPS-Wegpunkte und Intervalle machen dein Smartphone zur mobilen Einsatzzentrale.
+  <br clear="left" />
+</p>
+<p><i><small>Taktisches Design, nervenaufreibende Intervalle, Fokus auf Paranoia & Teamplay</small></i></p>
+<p><small>● PHP ● JavaScript ● HTML ● CSS</small></p>
+<br />
 <a href="https://septem-sensu.de">septem-sensu.de - Weil Fotografieren Spaß macht</a>
 <p></p>
 <p>
