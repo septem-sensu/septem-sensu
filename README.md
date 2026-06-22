@@ -37,7 +37,7 @@
 <p></p>
 <p>
   <img src="assets/img/friendshunt-app-icon-192x192.png" align="left" alt="Projekt: Friends Hunt - Die Jagd beginnt..." title="Projekt: Friends Hunt - Die Jagd beginnt..." height="100" width="100" />
-  Friends-Hunt ist eine selbst-hostbare Progressive Web App (PWA) für Reallife-Geo-Games im Stil bekannter YouTube-Formate. Eine präzise GPS-Wegpunkte und Intervalle machen dein Smartphone zur mobilen Einsatzzentrale.
+  Friends Hunt ist eine PHP-basierte, mobile Web-Anwendung (PWA) für actiongeladene Geo-Games im echten Leben. Ausgestattet mit Live-GPS-Tracking und einem integrierten Schrittzähler verwandelt die App deine Umgebung in ein Spielfeld: Spieler bewegen sich koordiniert durch die echte Welt, während die Jäger (Hunter) versuchen, sie anhand von Echtzeit-Karten-Tracking aufzuspüren. Die gesamte Benutzeroberfläche ist intuitiv auf Deutsch gehalten.
   <br clear="left" />
 </p>
 <p><i><small>Taktisches Design, nervenaufreibende Intervalle, Fokus auf Paranoia & Teamplay</small></i></p>
