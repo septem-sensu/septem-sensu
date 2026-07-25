@@ -33,7 +33,8 @@
 </p>
 <h1></h1>
 <h3>Showcase</h3>
-<a href="https://github.com/septem-sensu/friendshunt/">Friends Hunt - Die Jagd beginnt...</a>
+<a href="https://friends-hunt.zockability.de/">Friends Hunt - Projektseite</a>
+<a href="https://github.com/septem-sensu/friendshunt/">Friends Hunt - GitHub Repository</a>
 <p></p>
 <p>
   <img src="assets/img/friendshunt-app-icon-192x192.png" align="left" alt="Projekt: Friends Hunt - Die Jagd beginnt..." title="Projekt: Friends Hunt - Die Jagd beginnt..." height="100" width="100" />
