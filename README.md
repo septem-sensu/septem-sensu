@@ -33,6 +33,16 @@
 </p>
 <h1></h1>
 <h3>Showcase</h3>
+<p><a href="https://github.com/septem-sensu/jp-envelope/">JPEnvelope - GitHub Repository</a></p>
+<p></p>
+<p>
+  <img src="assets/img/jp-envelope-white.png" align="left" alt="Projekt: JPEnvelope" title="Projekt: JPEnvelope" width="100" />
+  JPEnvelope ist ein datengetriebenes, leichtgewichtiges Full-Stack-Framework, das für die nahtlose und asynchrone Zusammenarbeit zwischen PHP im Backend und modernem Vanilla JavaScript im Frontend entwickelt wurde. Das Kernkonzept basiert auf dem Prinzip der namensgebenden **Envelopes (Datenumschläge)**: Anstatt schwere Framework-Architekturen oder relationale SQL-Datenbanken zu bemühen, verpackt JPEnvelope Geschäftslogik, Zustände und Validierungen in standardisierte JSON-Strukturen. Diese dienen als _Single Source of Truth_ für Client und Server gleichermaßen.
+  <br clear="left" />
+</p>
+<p><i><small>Deklaratives Design, asynchroner Bootstrap, Fokus auf Performance, Fail-Loud-Sicherheit</small></i></p>
+<p><small>● PHP ● JavaScript ● HTML ● CSS</small></p>
+<br />
 <p><a href="https://friends-hunt.zockability.de/">Friends Hunt - Projektseite</a></p>
 <p><a href="https://github.com/septem-sensu/friendshunt/">Friends Hunt - GitHub Repository</a></p>
 <p></p>
